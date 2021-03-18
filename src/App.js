@@ -17,7 +17,6 @@ function App() {
       <LoginButton />
       <LogoutButton />
       <Landing1 />
-      <Landing2 />
     </>
   );
 }
